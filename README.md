@@ -11,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="spidey1202.github.io" target="_blank"><img align="center" 
-            src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-8.png" alt="my-website" height="30" 
-            width="30"/></a>
+    <a href="mailto: swetas1202@gmail.com" target="_blank">
+        <i class="icon fa fa-envelope"></i>
     <a href="https://www.linkedin.com/in/sweta-singh-a8b556223/" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
