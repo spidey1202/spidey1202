@@ -10,7 +10,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
+## Contact Me
+
 Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/sweta-singh-a8b556223/)
 
 Looking forward to connecting with fellow developers and working on exciting projects!
 
