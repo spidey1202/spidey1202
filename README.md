@@ -10,13 +10,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="mailto: swetas1202@gmail.com" target="_blank">
-        <i class="icon fa fa-envelope"></i>
-    <a href="https://www.linkedin.com/in/sweta-singh-a8b556223/" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
-            width="40" /></a>
-</p>
+Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
+
+Looking forward to connecting with fellow developers and working on exciting projects!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
