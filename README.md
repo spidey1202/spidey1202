@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋😄, I'm Sweta Singh</h1>
-<h3 align="center">I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I enjoy exploring new technologies and building innovative solutions. I'm pursuing a degree in Computer Science.</h3>
+<h3 align="center">I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I enjoy exploring new technologies and building innovative solutions. </h3>
 
 - 👩‍💻 All of my projects are available at
 [https://github.com/spidey1202](https://github.com/spidey1202)
