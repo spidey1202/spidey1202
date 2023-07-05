@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sweta</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="right"/><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="center">Hey there! I'm Sweta</h2>
 <h3 align="center">I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I enjoy exploring new technologies and building innovative solutions. </h3>
 
 - 👩‍💻 All of my projects are available at
@@ -8,6 +8,11 @@
 
 - ⚡ Fun fact: I'm a big fan of puzzles and brain teasers. I love challenging myself with logic problems and riddles in my free time. If you have any interesting puzzles to share, feel free to reach out!
 
+### 👩‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design\
+🦚 &nbsp;In my free time, I pursue classical dance and playing football as hobbies/side hustles.
 
 <h3 align="left">Connect with me:</h3>
 
