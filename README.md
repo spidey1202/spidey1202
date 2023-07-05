@@ -16,9 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
-Looking forward to connecting with fellow developers and working on exciting projects!
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/spidey1202/spidey1202/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,7 +29,6 @@ Looking forward to connecting with fellow developers and working on exciting pro
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -42,14 +38,19 @@ Looking forward to connecting with fellow developers and working on exciting pro
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/spidey1202">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spidey1202&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spidey1202&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
     <!-- C Programming -->
     <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -88,4 +89,9 @@ Looking forward to connecting with fellow developers and working on exciting pro
     <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" alt="flutter" width="60" height="40" /> </a>
  </p>
+
+🤝🏻 Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
+Looking forward to connecting with fellow developers and working on exciting projects!
+
+
 
