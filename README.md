@@ -12,6 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 
 Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
+Looking forward to connecting with fellow developers and working on exciting projects!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/spidey1202/spidey1202/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -39,7 +43,6 @@ Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas12
 
 
 
-Looking forward to connecting with fellow developers and working on exciting projects!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
