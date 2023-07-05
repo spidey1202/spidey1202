@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋😄, I'm Sweta Singh</h1>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sweta</h2>
 <h3 align="center">I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I enjoy exploring new technologies and building innovative solutions. </h3>
 
 - 👩‍💻 All of my projects are available at
@@ -14,7 +14,7 @@
 Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
 Looking forward to connecting with fellow developers and working on exciting projects!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/spidey1202/spidey1202/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/spidey1202/spidey1202/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
