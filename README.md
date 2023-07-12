@@ -1,20 +1,25 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="right"/><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="center">Hey there! I'm Sweta</h2>
 <h3 align="center">I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I enjoy exploring new technologies and building innovative solutions. </h3>
 
+### 👩‍💻 &nbsp;About Me
+
 - 👩‍💻 All of my projects are available at
 [https://github.com/spidey1202](https://github.com/spidey1202)
 
 - 📫 My Personal Portfolio Website: <a href="https://spidey1202.github.io/" target="_blank">Sweta Singh</a>
 
-- ⚡ Fun fact: I'm a big fan of puzzles and brain teasers. I love challenging myself with logic problems and riddles in my free time. If you have any interesting puzzles to share, feel free to reach out!
+- ⚡ Fun fact: I'm a big fan of puzzles and brain teasers. I love challenging myself with logic problems and riddles in my free time.
+  
+ - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-### 👩‍💻 &nbsp;About Me
+ - 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.
+ 
+ - 🦚 &nbsp;In my free time, I pursue classical dance and playing football as hobbies/side hustles.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design\
-🦚 &nbsp;In my free time, I pursue classical dance and playing football as hobbies/side hustles.
+<h3 align="left">🤝🏻 Connect with me</h3>
+ Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
+Looking forward to connecting with fellow developers and working on exciting projects!
 
-<h3 align="left">Connect with me:</h3>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/spidey1202/spidey1202/main/assets/Night-Coding.gif" align="right"/>
 
@@ -90,8 +95,6 @@
     <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" alt="flutter" width="60" height="40" /> </a>
  </p>
 
-🤝🏻 **Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
-Looking forward to connecting with fellow developers and working on exciting projects!**
 
 
 
