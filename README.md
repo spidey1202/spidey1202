@@ -17,8 +17,8 @@
  - 🦚 &nbsp;In my free time, I pursue classical dance and playing football as hobbies/side hustles.
 
 <h3 align="left">🤝🏻 Connect with me</h3>
- Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
-Looking forward to connecting with fellow developers and working on exciting projects!
+ - Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
+- Looking forward to connecting with fellow developers and working on exciting projects!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/spidey1202/spidey1202/main/assets/Night-Coding.gif" align="right"/>
