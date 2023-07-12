@@ -90,8 +90,8 @@
     <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" alt="flutter" width="60" height="40" /> </a>
  </p>
 
-🤝🏻 Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
-Looking forward to connecting with fellow developers and working on exciting projects!
+🤝🏻 **Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
+Looking forward to connecting with fellow developers and working on exciting projects!**
 
 
 
