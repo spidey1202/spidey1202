@@ -17,8 +17,8 @@
  - 🦚 &nbsp;In my free time, I pursue classical dance and playing football as hobbies/side hustles.
 
 <h3 align="left">🤝🏻 Connect with me</h3>
- - Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/).
-- Looking forward to connecting with fellow developers and working on exciting projects!
+Feel free to reach out to me via email at [swetas1202@gmail.com](mailto:swetas1202@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sweta-singh-a8b556223/)
+ 
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/spidey1202/spidey1202/main/assets/Night-Coding.gif" align="right"/>
@@ -46,14 +46,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/spidey1202">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spidey1202&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spidey1202&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
@@ -97,4 +89,14 @@
 
 
 
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/spidey1202">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spidey1202&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spidey1202&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
