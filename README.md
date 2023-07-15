@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spidey1202&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
-### 👩‍💻 &nbsp;About Me
+### 👩‍💻 &nbsp;About 
 
 - 👩‍💻 All of my projects are available at
 [https://github.com/spidey1202](https://github.com/spidey1202)
