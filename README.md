@@ -17,7 +17,7 @@
 
  - 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.
  
- - 🦚 &nbsp;In my free time, I pursue classical dance and playing football as hobbies/side hustles.
+ - 🦚 &nbsp;I pursue classical dance and playing football as hobbies/side hustles.
 
 <h3 align="left">🤝🏻 Connect with me</h3>
 <p align="left">
