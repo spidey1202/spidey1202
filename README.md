@@ -1,5 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="right"/><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="center">Hey there! I'm Sweta</h2>
-<h3 align="center">I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I enjoy exploring new technologies and building innovative solutions. </h3>
+<h3 align="center">I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I enjoy exploring new technologies and building innovativ solutions. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spidey1202&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
